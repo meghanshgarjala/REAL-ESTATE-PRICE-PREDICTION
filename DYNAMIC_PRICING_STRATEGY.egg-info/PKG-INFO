@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: DYNAMIC-PRICING-STRATEGY
+Version: 0.0.1
+Author: GARJALA MEGHANSH RAO
+Author-email: garjala14@gmail.com
+Requires-Dist: pandas
+Requires-Dist: seaborn
+Requires-Dist: numpy
