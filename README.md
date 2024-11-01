@@ -18,19 +18,6 @@ The Real Estate Price Prediction project aims to develop a machine learning mode
 - **Libraries**: pandas, numpy, scikit-learn, Streamlit, matplotlib, seaborn
 - **Development Tools**: Jupyter Notebook, Visual Studio Code
 
-## How to Run the Project
-
-### Installation
-To run this application locally, follow these steps:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/meghanshgarjala/loan-approval-prediction.git
-   cd loan-approval-prediction
-
-2. Install the required packages:
-   ```bash
-   pip install streamlit scikit-learn
-
 
 ### Conclusion
 The Real Estate Price Prediction project demonstrates the potential of machine learning in the real estate market. With continuous improvements, this model can become an invaluable tool for stakeholders in the real estate industry, providing accurate price forecasts and assisting in better decision-making.
